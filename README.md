@@ -11,4 +11,4 @@
  
 O case está disponível em: [Case NY subway](https://github.com/rodgdutra/case_nyc_subway/blob/master/case_nys.ipynb)
 
-Caso não renderize, aqui está o link alternativo: [Case série de passageiros entrantes](https://nbviewer.org/github.com/rodgdutra/case_nyc_subway/blob/master/case_nys.ipynb).
+Caso não renderize, aqui está o link alternativo: [Case série de passageiros entrantes](https://nbviewer.org/github/rodgdutra/case_nyc_subway/blob/master/case_nys.ipynb).
